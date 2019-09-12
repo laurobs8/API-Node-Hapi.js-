@@ -1,7 +1,4 @@
-# Módulo 5 - Bancos de Dados - Nosso projeto Multi-banco de dados
-
-- Trabalhando com o padrão Strategy para Multi DataSources
-
+## Curso nodebr node com hapi.js
 ## Instalando docker para usar o MongoDB e Postgres
 
 ```shell
