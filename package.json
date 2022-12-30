@@ -9,7 +9,7 @@
   "author": "erickwendel",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "sequelize": "^4.44.2"
   },
   "dependencies": {
